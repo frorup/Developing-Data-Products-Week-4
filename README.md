@@ -5,5 +5,5 @@ This program reads the NASA temperature from three different datasets; World tem
 
 The Shiny app generates tables and plots for a selected time range (years) and month of the year. The temperature is relative to pre-industrial level. 
 
-The uploaded Shiny app is found here:
-[I'm an inline-style link](https://https://frorup.shinyapps.io/Global-and-Pole-Temperatures/)
+The uploaded Shiny app is found here: <https://frorup.shinyapps.io/Global-and-Pole-Temperatures/?_ga=2.234978564.449144841.1675281039-179859469.1675177246>
+
